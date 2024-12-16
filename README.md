@@ -27,4 +27,5 @@
 2. Be redirected!
    ```
      my_redirect.Redirect()
+   %>
    ```
