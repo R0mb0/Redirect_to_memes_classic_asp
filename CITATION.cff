@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rombaldoni"
+  given-names: "Francesco"
+title: "Redirect_to_memes_classic_asp"
+version: 1.0.0
+date-released: 2024-12-16
+url: "https://github.com/R0mb0/Redirect_to_memes_classic_asp"
