@@ -8,7 +8,7 @@
 
 [![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
 
-## `timed_password_generator.class.asp`'s avaible sub
+## `redirect_to_memes.class.asp`'s avaible sub
 
 - Be redirected -> `Public Sub Redirect()`
 
@@ -19,7 +19,7 @@
 1. Initialize the class
    ```
     <%@LANGUAGE="VBSCRIPT"%>
-    <!--#include file="redirect_to_memes.asp"-->
+    <!--#include file="redirect_to_memes.class.asp"-->
     <%
        Dim my_redirect
        Set my_redirect = new redirect_to_memes
