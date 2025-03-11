@@ -17,7 +17,7 @@
 > From `Test.asp`
 
 1. Initialize the class
-   ```
+   ```asp
     <%@LANGUAGE="VBSCRIPT"%>
     <!--#include file="redirect_to_memes.class.asp"-->
     <%
@@ -25,7 +25,7 @@
        Set my_redirect = new redirect_to_memes
    ```
 2. Be redirected!
-   ```
+   ```asp
      my_redirect.Redirect()
    %>
    ```
